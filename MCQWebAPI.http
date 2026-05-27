@@ -1,0 +1,6 @@
+@MCQWebAPI_HostAddress = http://localhost:5260
+
+GET {{MCQWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
